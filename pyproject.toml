@@ -1,0 +1,44 @@
+[build-system]
+requires = ["hatchling<1.26"]
+build-backend = "hatchling.build"
+
+[project]
+name = "django-octo-security"
+version = "0.1.0"
+description = "Enterprise-ready Django runtime security and zero-dependency environment CVE audit module under the Django-Octo architecture."
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [
+    { name = "jeanpmodev", email = "jeanpmodev@gmail.com" }
+]
+keywords = ["django", "security", "cve", "vulnerability-scanner", "audit", "hardening", "osv"]
+classifiers = [
+    "Framework :: Django",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Security",
+]
+dependencies = [
+    "django>=6.1.2",
+    "python-dotenv",
+]
+
+[project.urls]
+Homepage = "https://github.com/jeanpmodev/django_octo_security"
+Repository = "https://github.com/jeanpmodev/django_octo_security"
+
+[tool.rye]
+managed = true
+dev-dependencies = [
+    "pytest>=9.2.0",
+    "pytest-django>=4.14.0",
+    "behave>=1.3.3",
+    "behave-django>=2.0.0",
+    "locust>=2.47.0",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/django_octo_security"]
+
