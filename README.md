@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-blue)](https://python.org)
 [![Framework: Django](https://img.shields.io/badge/Framework-Django-darkgreen)](https://djangoproject.com)
 [![Package Manager: Rye](https://img.shields.io/badge/Package_Manager-Rye-orange)](https://astral.sh)
-![PyPI Version](https://img.shields.io/pypi/v/django-octo-security)
+![PyPI Version](https://img.shields.io/pypi/v/django_octo_security)
 [![Latest on Django Packages](https://img.shields.io/badge/Django_Packages-django__octo__security-8c3c26.svg)](https://djangopackages.org/packages/p/django_octo_security/)
 [![Tests: pytest](https://img.shields.io/badge/Tests-pytest%20passed-2ea44f.svg)](https://github.com/jeanpmodev/django_octo_security/blob/main/TESTING.md)
 [![BDD: Behave](https://img.shields.io/badge/BDD-Behave%20verified-009688.svg)](https://github.com/jeanpmodev/django_octo_security/blob/main/TESTING.md)
