@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "django-octo-security"
-version = "0.1.0"
+version = "0.1.1"
 description = "Enterprise-ready Django runtime security and zero-dependency environment CVE audit module under the Django-Octo architecture."
 readme = "README.md"
 requires-python = ">=3.12"
