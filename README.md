@@ -15,6 +15,7 @@
 [![Snyk Vulnerabilities](https://img.shields.io/badge/Snyk%20Vulnerabilities-0%20known-brightgreen?logo=snyk&logoColor=white)](https://security.snyk.io/package/pip/django-octo-security)
 [![Security Audit](https://github.com/jeanpmodev/django_octo_security/actions/workflows/security.yml/badge.svg)](https://github.com/jeanpmodev/django_octo_security/actions/workflows/security.yml)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/jeanpmodev/django_octo_security/badge)](https://scorecard.dev/viewer/?uri=github.com/jeanpmodev/django_octo_security)
+[![Socket Badge](https://badge.socket.dev/pypi/package/django-octo-security/0.1.0?artifact_id=tar-gz)](https://badge.socket.dev/pypi/package/django-octo-security/0.1.0?artifact_id=tar-gz)
 
 **Enterprise-ready, non-intrusive Django runtime security posture and zero-dependency environment CVE audit module under the Django-Octo architecture.**
 
