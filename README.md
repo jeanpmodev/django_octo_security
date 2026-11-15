@@ -12,6 +12,9 @@
 [![CI](https://img.shields.io/github/actions/workflow/status/jeanpmodev/django_octo_security/ci.yml?branch=main&label=CI)](https://github.com/jeanpmodev/django_octo_security/actions/workflows/ci.yml)
 [![Code Style: PEP 8](https://img.shields.io/badge/code%20style-PEP%208-blue)](https://peps.python.org/pep-0008/)
 [![PyPI Provenance](https://img.shields.io/badge/PyPI-With%20Provenance-blue?logo=pypi&logoColor=white)](https://pypi.org/project/django-octo-security/#provenance)
+[![Snyk Vulnerabilities](https://img.shields.io/badge/Snyk%20Vulnerabilities-0%20known-brightgreen?logo=snyk&logoColor=white)](https://security.snyk.io/package/pip/django-octo-security)
+[![Security Audit](https://github.com/jeanpmodev/django_octo_security/actions/workflows/security.yml/badge.svg)](https://github.com/jeanpmodev/django_octo_security/actions/workflows/security.yml)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/jeanpmodev/django_octo_security/badge)](https://scorecard.dev/viewer/?uri=github.com/jeanpmodev/django_octo_security)
 
 **Enterprise-ready, non-intrusive Django runtime security posture and zero-dependency environment CVE audit module under the Django-Octo architecture.**
 
