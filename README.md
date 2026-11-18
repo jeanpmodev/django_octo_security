@@ -35,6 +35,8 @@
 
 ---
 
+<p align="center"> <img src="https://raw.githubusercontent.com/jeanpmodev/jeanpmodev/main/assets/django-octo-security-demo.png" alt="Demo Django Octo Security" width="600"> </p>
+
 ## Security & Audit Architecture
 
 | Layer | Mechanism / Target | Engineering Purpose |
