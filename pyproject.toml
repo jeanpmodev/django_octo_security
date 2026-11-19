@@ -27,7 +27,9 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://github.com/jeanpmodev/django_octo_security"
+Documentation = "https://django-octo.readthedocs.io/en/latest/security/"
 Repository = "https://github.com/jeanpmodev/django_octo_security"
+Issues = "https://github.com/jeanpmodev/django_octo_security/issues"
 
 [tool.rye]
 managed = true
@@ -41,4 +43,3 @@ dev-dependencies = [
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/django_octo_security"]
-
