@@ -22,6 +22,7 @@
 [![Socket Badge](https://badge.socket.dev/pypi/package/django-octo-security/0.1.0?artifact_id=tar-gz)](https://badge.socket.dev/pypi/package/django-octo-security/0.1.0?artifact_id=tar-gz)
 [![codecov](https://codecov.io/github/jeanpmodev/django_octo_security/graph/badge.svg?token=YUOBIXZE9A)](https://codecov.io/github/jeanpmodev/django_octo_security)
 [![Documentation Status](https://readthedocs.org/projects/django-octo/badge/?version=latest)](https://django-octo.readthedocs.io/en/latest/security/)
+[![PyPkgScore](https://pypkgscore.onrender.com/badge/django_octo_security.svg)](https://pypkgscore.onrender.com/en/p/django_octo_security/)
 
 **Enterprise-ready, non-intrusive Django runtime security posture and zero-dependency environment CVE audit module under the Django-Octo architecture.**
 
